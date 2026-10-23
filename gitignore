@@ -1,0 +1,7 @@
+game_data.h
+*.xex
+*.a26
+*.rom
+*.exe
+*.nro
+*.elf
